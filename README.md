@@ -24,10 +24,10 @@ Hi, I'm xxjwxc, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@gm
   <img align="right" width="120" height="120" alt="wechart-logo" src="https://hospital-1252338888.file.myqcloud.com/img/oUq8a0eTRg8qaCLf_AaYuIXS63wk.jpg" />
 </a>
 
-**Talking about Personal Stuffs:**
+<!-- **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I'm working on the following projects. 
-- ❤️ If my projects have helped you, please consider [sponsoring me](https://www.paypal.me/xxjwxc)  ~~ Thank you! ❤️
+- ❤️ If my projects have helped you, please consider [sponsoring me](https://www.paypal.me/xxjwxc)  ~~ Thank you! ❤️ -->
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xxjwxc)](https://github.com/anuraghazra/github-readme-stats)
