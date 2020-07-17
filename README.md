@@ -21,7 +21,7 @@
 Hi, I'm xxjwxc, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@gmsec](https://github.com/gmsec) Open Source Groups. I love C++ & Golang & python forever.❤️ 
 
 <a href="https://xmake.io">
-  <img align="right" width="120" height="120" alt="xmake-logo" src="https://tboox.org/static/img/xmake/logo256c.png" />
+  <img align="right" width="120" height="120" alt="xmake-logo" src="https://hospital-1252338888.file.myqcloud.com/img/oUq8a0eTRg8qaCLf_AaYuIXS63wk.jpg" />
 </a>
 
 **Talking about Personal Stuffs:**
