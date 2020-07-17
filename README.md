@@ -24,7 +24,7 @@ Hi, I'm xxjwxc, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@gm
   <img align="right" width="200" height="200" alt="wechart-logo" src="https://hospital-1252338888.file.myqcloud.com/img/oUq8a0eTRg8qaCLf_AaYuIXS63wk.jpg" />
 </a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xxjwxc&show_icons=true&title_color=468BF0&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xxjwxc&show_icons=true)
 
 **Talking about Personal Stuffs:**
 
