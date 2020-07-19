@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-Hi, I'm xxjwxc, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@gmsec](https://github.com/gmsec) Open Source Groups. I love C++ & Golang & python forever.❤️ 
+Hi, I'm xxjwxc, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@gmsec](https://github.com/gmsec) Open Source Groups. I love C++ & Golang & Python forever.❤️ 
 
 <a href="weixin://dl/business/?ticket=jnpher">
   <img align="right" width="200" height="200" alt="wechart-logo" src="https://hospital-1252338888.file.myqcloud.com/img/oUq8a0eTRg8qaCLf_AaYuIXS63wk.jpg" />
