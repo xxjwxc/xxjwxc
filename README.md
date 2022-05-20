@@ -36,5 +36,7 @@ Hi, I'm xxjwxc, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@gm
 
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xxjwxc&repo=uber_go_guide_cn)](https://github.com/xxjwxc/uber_go_guide_cn)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=gmsec&repo=micro)](https://github.com/gmsec/micro)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xxjwxc&repo=gohanlp)](https://github.com/xxjwxc/gohanlp)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xxjwxc&repo=public)](https://github.com/xxjwxc/public)
 
 
